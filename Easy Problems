@@ -3,3 +3,10 @@ Solution:
 
 2->Find subarray with given sum | Set 2 (Handles Negative Numbers)
 Given an unsorted array of integers, find a subarray which adds to a given number. If there are more than one subarrays with sum as the given number, print any of them.
+
+
+3->Parenthesis Checker
+Stack solution
+
+4->Sort an array of 0s, 1s and 2s
+dutch flag method
