@@ -16,3 +16,6 @@ for the pair (3, 4)
 Write a program to find the majority element in the array. A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).  If input array doesn't contain a majority element, then output "NO Majority Element"
 
 Hint->Moore's Voting Algorithm
+
+
+4->1->K’th Smallest/Largest Element in Unsorted Array | set 1,Set 2,Set 3 (Read all)
