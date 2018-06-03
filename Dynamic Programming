@@ -1,0 +1,6 @@
+1->Subset Sum Problem
+Given a set of numbers, check whether it can be partitioned into two subsets such that the sum of elements in both subsets is same or not.
+Solution->create 2D array with aux[sum][n+1] and think.
+  link->https://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/
+  
+2->
