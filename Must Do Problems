@@ -2,3 +2,17 @@
 Given a sorted and rotated array (rotated at some point) A[ ], and given an element K, the task is to find the index of the given element K in the array A[ ]. The array has no duplicate elements. If the element does not exist in the array, print -1.
 
 Solution->https://www.youtube.com/watch?v=uufaK2uLnSI&t=400s
+
+
+2->Maximum Index
+Given an array A of integers, find the maximum of j - i subjected to the constraint of A[i] <= A[j].
+Example :
+A : [3 5 4 2]
+Output : 2 
+for the pair (3, 4)
+
+
+3->Majority Element
+Write a program to find the majority element in the array. A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).  If input array doesn't contain a majority element, then output "NO Majority Element"
+
+Hint->Moore's Voting Algorithm
