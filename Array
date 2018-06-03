@@ -5,22 +5,22 @@ Solution:
 Given an unsorted array of integers, find a subarray which adds to a given number. If there are more than one subarrays with sum as the given number, print any of them.
 
 
-3->Parenthesis Checker
-Stack solution
 
-4->Sort an array of 0s, 1s and 2s
+
+3->Sort an array of 0s, 1s and 2s
 dutch flag method
 
-5->Next larger element
-Given an array A [ ] having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
-Solution: think of stack(next greater element)
 
-6->Maximum Index
+
+4->Maximum Index
 Given an array A of integers, find the maximum of j - i subjected to the constraint of A[i] <= A[j].
-
 Example :
-
 A : [3 5 4 2]
-
 Output : 2 
 for the pair (3, 4)
+
+
+5->Majority Element
+Write a program to find the majority element in the array. A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).  If input array doesn't contain a majority element, then output "NO Majority Element"
+
+Hint->Moore's Voting Algorithm
