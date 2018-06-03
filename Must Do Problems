@@ -1,0 +1,4 @@
+1->Search in a Rotated Array
+Given a sorted and rotated array (rotated at some point) A[ ], and given an element K, the task is to find the index of the given element K in the array A[ ]. The array has no duplicate elements. If the element does not exist in the array, print -1.
+
+Solution->https://www.youtube.com/watch?v=uufaK2uLnSI&t=400s
