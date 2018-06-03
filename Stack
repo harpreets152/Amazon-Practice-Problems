@@ -1,0 +1,6 @@
+1->Parenthesis Checker
+Stack solution
+
+2->Next larger element
+Given an array A [ ] having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
+Solution: think of stack(next greater element)
