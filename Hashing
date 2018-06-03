@@ -1,0 +1,5 @@
+1->Pair with given product | Set 1 (Find if any pair exists)
+Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
+
+Solution: Think of all posible cases, when to consider that element in array for answer.
+Link->https://www.geeksforgeeks.org/pair-with-given-product-set-1-find-if-any-pair-exists/
