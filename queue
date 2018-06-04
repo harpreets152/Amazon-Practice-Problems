@@ -1,0 +1,14 @@
+1->First non-repeating character in a stream
+Given an input stream of n characters consisting only of small case alphabets the task is to find the first non repeating character each time a character is inserted to the stream.
+Example
+
+Flow in stream : a, a, b, c
+a goes to stream : 1st non repeating element a (a)
+a goes to stream : no non repeating element -1 (5, 15)
+b goes to stream : 1st non repeating element is b (a, a, b)
+c goes to stream : 1st non repeating element is b (a, a, b, c)
+
+Solution->
+  https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+  https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0
+  
