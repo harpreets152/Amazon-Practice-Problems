@@ -1,2 +1,6 @@
 1->Search in a Rotated Array
 Given a sorted and rotated array (rotated at some point) A[ ], and given an element K, the task is to find the index of the given element K in the array A[ ]. The array has no duplicate elements. If the element does not exist in the array, print -1.
+
+
+2->Minimum element in a sorted and rotated array
+A sorted array A[ ] with distinct elements is rotated at some unknown point, the task is to find the minimum element in it.
