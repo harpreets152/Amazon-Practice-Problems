@@ -24,3 +24,9 @@ for the pair (3, 4)
 Write a program to find the majority element in the array. A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).  If input array doesn't contain a majority element, then output "NO Majority Element"
 
 Hint->Moore's Voting Algorithm
+
+
+6->Sliding Window Maximum (Maximum of all subarrays of size k)
+Given an array and an integer k, find the maximum for each and every contiguous subarray of size k.
+
+Hint:-> Think of double ended queue
