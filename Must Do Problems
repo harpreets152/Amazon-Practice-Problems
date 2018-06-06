@@ -49,3 +49,9 @@ https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
 https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/
 
 
+
+7->Find the two non-repeating elements in an array of repeating elements
+
+Given an array in which all numbers except two are repeated once. (i.e. we have 2n+2 numbers and n numbers are occurring twice and remaining two have occurred once). Find those two numbers in the most efficient way.
+
+Solution->https://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/
